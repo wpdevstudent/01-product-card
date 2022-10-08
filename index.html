@@ -1,1 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Product Preview Card Component</title>
+    <meta charset="UTF-8">
+    <style>
 
+        body {
+            background-color: hsl(30, 38%, 92%);
+        }
+
+        main {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        article {
+
+            border: 2px solid;
+            width: 375px;
+            height: 611px;
+            background: hsl(0, 0%, 100%);
+
+        }
+
+        img {
+            width: auto ;
+            max-width: 100% ;
+            height: auto ;
+        }
+
+        .price-items p {
+            display: inline-block;
+        }
+
+        .price-current {}
+
+        .price-before {}
+
+        button {
+
+            background: hsl(158, 36%, 37%);
+            width: 295px;
+            height: 48px;
+
+        }
+
+
+
+        /* For desktops starts */
+
+        @media screen and (min-width: 600px) {
+
+            article {
+                width: 600px;
+                height: 450px;
+            }
+
+            button {
+                width: 100%;
+            }
+
+        }
+
+
+
+
+    </style>
+
+</head>
+<main>
+    <article>
+        <img src="image-product-mobile.jpg" alt="image of a perfume bottle">
+        <source media="(min-width: 600px)" srcset="image-product-desktop.jpg">
+
+        <p class="perfume">Perfume</p>
+        <h2>Gabrielle Essence Eau De Perfume</h2>
+        <p>A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.</p>
+        <div class="price-items">
+            <p class="price-current">$149.99</p>
+            <p class="price-before">$169.99</p>
+        </div>
+
+        <button>Add to Cart</button>
+
+
+    </article>
+</main>
+</html>
