@@ -33,7 +33,18 @@ img {
 
 .perfume {
     font-family: 'Montserrat', serif;
-    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+
+    /* identical to box height */
+    letter-spacing: 5px;
+
+    /* Aurometal Saurus */
+    color: #6C7289;
+
+
 }
 
 description {
