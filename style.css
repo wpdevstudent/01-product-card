@@ -17,7 +17,6 @@ h1 {
     line-height: 2rem;
     padding-left: 1rem;
     padding-right: 1rem;
-
 }
 
 article {
@@ -48,8 +47,6 @@ img {
     color: #6C7289;
     text-transform: uppercase;
     padding-left: 1rem;
-
-
 }
 
 .description {
@@ -88,7 +85,6 @@ img {
     padding-left: 3.1rem;
     position: relative;
     bottom: 0.625rem;
-
 }
 
 .btn {
@@ -99,7 +95,6 @@ img {
     font-size: 1rem;
     border: 0.125rem solid green;
     border-radius: 0.5rem;
-
 }
 .for-button {
     display: flex;
@@ -109,10 +104,8 @@ img {
 }
 
 span.add-to-cart {
-
     padding-left: 1.875rem;
     color: white;
-
 }
 
 
@@ -129,5 +122,3 @@ span.add-to-cart {
         width: 100%;
     }
 }
-
-
