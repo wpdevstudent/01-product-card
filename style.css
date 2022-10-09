@@ -49,6 +49,14 @@ description {
     display: inline-block;
 }
 
+.price-current {
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+}
+
 .btn {
     background: hsl(158, 36%, 37%);
     width: 75%;
