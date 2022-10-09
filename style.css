@@ -9,6 +9,14 @@ main {
     min-height: 100vh;
 }
 
+h2 {
+    font-family: 'Fraunces', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+}
+
 article {
 
     border: 2px solid;
