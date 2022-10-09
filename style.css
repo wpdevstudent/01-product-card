@@ -95,6 +95,9 @@ img {
     font-size: 1rem;
     border: 0.125rem solid green;
     border-radius: 0.5rem;
+    display: grid;
+    justify-content: center;
+    align-items: center;
 }
 .for-button {
     display: flex;
