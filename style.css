@@ -15,6 +15,7 @@ h1 {
     font-weight: 700;
     font-size: 2rem;
     line-height: 2rem;
+    padding-left: 1rem;
 }
 
 article {
@@ -39,7 +40,7 @@ img {
     letter-spacing: 0.3rem;
     color: #6C7289;
     text-transform: uppercase;
-    padding-left: 2rem;
+    padding-left: 1rem;
 
 
 }
@@ -51,18 +52,12 @@ img {
     font-size: 0.9rem;
     line-height: 1.4rem;
     color: #6C7289;
-}
-
-h1 .price-items {
-
     padding-left: 1rem;
-
 }
-
-
 
 .price-items p {
     display: inline-block;
+    padding-left: 1rem;
 }
 
 .price-current {
