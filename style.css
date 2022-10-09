@@ -21,7 +21,7 @@ article {
     width: 375px;
     height: fit-content;
     background: hsl(0, 0%, 100%);
-    padding: 15px;
+    /* padding: 15px; */
 }
 
 img {
