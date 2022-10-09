@@ -21,9 +21,9 @@ article {
 
     border: 2px solid;
     width: 375px;
-    height: 611px;
+    height: fit-content;
     background: hsl(0, 0%, 100%);
-
+    padding: 15px;
 }
 
 img {
