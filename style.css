@@ -48,7 +48,6 @@ img {
     color: #6C7289;
     text-transform: uppercase;
     padding-left: 1rem;
-    padding-right: 1rem;
 
 
 }
@@ -61,6 +60,7 @@ img {
     line-height: 1.4rem;
     color: #6C7289;
     padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 .price-items p {
