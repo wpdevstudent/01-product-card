@@ -47,13 +47,19 @@ img {
 
 }
 
-description {
+.description {
     font-family: 'Montserrat', serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 23px;
     color: #6C7289;
+}
+
+.perfume, .description, h2, .price-items {
+
+    padding: 0 15px 0 15px;
+
 }
 
 .price-items p {
@@ -79,7 +85,7 @@ description {
     color: #6C7289;
     padding-left: 50px;
     position: relative;
-    bottom: 20px;
+    bottom: 10px;
 
 }
 
@@ -91,11 +97,13 @@ description {
     font-size: 16px;
     border: 2px solid green;
     border-radius: 8px;
+
 }
 .for-button {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-bottom: 30px;
 }
 
 
