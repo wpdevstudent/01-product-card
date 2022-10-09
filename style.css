@@ -25,6 +25,10 @@ article {
     border-radius: 0.3rem;
 }
 
+.for-image-background {
+    background-color: hsl(30, 38%, 92%);
+}
+
 img {
     width: auto ;
     max-width: 100% ;
