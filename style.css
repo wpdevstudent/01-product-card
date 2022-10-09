@@ -98,6 +98,7 @@ img {
     display: grid;
     justify-content: center;
     align-items: center;
+    gap: 1.2rem;
 }
 .for-button {
     display: flex;
