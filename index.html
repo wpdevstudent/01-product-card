@@ -1,17 +1,18 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <title>Product Preview Card Component</title>
     <meta charset="UTF-8">
+    <meta rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.css">
     <!-- Add icon library -->
-    <link rel="stylesheet"
-          href=
-                  "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <style>
 
         body {
             background-color: hsl(30, 38%, 92%);
         }
+
+
 
         main {
             display: flex;
@@ -67,11 +68,7 @@
             button {
                 width: 100%;
             }
-
         }
-
-
-
 
     </style>
 
@@ -79,6 +76,7 @@
 <main>
     <article>
         <img src="image-product-mobile.jpg" alt="image of a perfume bottle">
+
         <source media="(min-width: 600px)" srcset="image-product-desktop.jpg">
 
         <p class="perfume">Perfume</p>
@@ -90,8 +88,10 @@
         </div>
         <div class="for-button">
           <button class="btn" type="button">
-            <i class="fa fa-fire"></i>
-            <span>Add to Cart</span>
+            <!--i class="fa fa-fire"></i-->
+              <i class="fa fa-cart-plus" aria-hidden="true"></i><!-- Font Awecome 4.3 icon -->
+
+              <span>Add to Cart</span>
           </button>
         </div>
 
