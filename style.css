@@ -16,6 +16,7 @@ h1 {
     font-size: 2rem;
     line-height: 2rem;
     padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 article {
@@ -46,6 +47,7 @@ img {
     color: #6C7289;
     text-transform: uppercase;
     padding-left: 1rem;
+    padding-right: 1rem;
 
 
 }
