@@ -28,6 +28,7 @@ img {
     width: auto ;
     max-width: 100% ;
     height: auto ;
+    border-radius: 5px;
 }
 
 .perfume {
@@ -52,6 +53,7 @@ description {
     font-weight: 500;
     font-size: 14px;
     line-height: 23px;
+    color: #6C7289;
 }
 
 .price-items p {
