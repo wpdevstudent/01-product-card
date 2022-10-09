@@ -50,7 +50,7 @@ description {
 }
 
 .price-current {
-    font-family: 'Fraunces';
+    font-family: 'Fraunces', serif;
     font-style: normal;
     font-weight: 700;
     font-size: 32px;
