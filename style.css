@@ -66,6 +66,8 @@ description {
     text-decoration-line: line-through;
     color: #6C7289;
     padding-left: 50px;
+    position: relative;
+    bottom: 20px;
 
 }
 
