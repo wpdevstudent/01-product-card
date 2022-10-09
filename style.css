@@ -53,9 +53,9 @@ img {
     color: #6C7289;
 }
 
-h1, .price-items {
+h1 .price-items {
 
-    padding: 0 0.9rem 0 0.9rem;
+    padding-left: 1rem;
 
 }
 
