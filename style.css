@@ -57,6 +57,19 @@ description {
     color: #3D8168;
 }
 
+.price-before {
+    font-family: 'Montserrat', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 23px;
+    /* identical to box height, or 177% */
+    text-decoration-line: line-through;
+    /* Aurometal Saurus */
+    color: #6C7289;
+    margin-bottom: -10px;
+}
+
 .btn {
     background: hsl(158, 36%, 37%);
     width: 75%;
