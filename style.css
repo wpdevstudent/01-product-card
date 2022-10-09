@@ -89,13 +89,13 @@ img {
 
 .btn {
     background: hsl(158, 36%, 37%);
-    max-width: 75%;
+    width: 75%;
     height: 3rem;
     padding: 0.75rem 1rem;
     font-size: 1rem;
     border: 0.125rem solid green;
     border-radius: 0.5rem;
-    display: grid;
+    display: flex;
     justify-content: center;
     align-items: center;
     gap: 1.2rem;
