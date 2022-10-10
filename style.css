@@ -37,6 +37,10 @@ img {
     border-radius: 1rem 1rem 0 0;
 }
 
+svg {
+    fill: currentColor;
+}
+
 .category {
     font-family: 'Montserrat', serif;
     font-style: normal;
