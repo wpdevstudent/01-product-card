@@ -58,7 +58,7 @@ body {
 }
 
 :root {
-  --margin-bottom: 3%;
+  --my-bottom-margin: 3%;
 }
 
 article {
@@ -70,7 +70,7 @@ img {
 }
 
 .category {
-    margin-bottom: var(--margin-bottom);
+    margin-bottom: var(--my-bottom-margin);
     font-family: 'Montserrat', serif;
     font-style: normal;
     font-weight: 500;
@@ -89,7 +89,7 @@ img {
 }
 
 h1 {
-    margin-bottom: var(--margin-bottom);
+    margin-bottom: var(--my-bottom-margin);
     font-family: 'Fraunces', serif;
     font-style: normal;
     font-weight: 700;
@@ -98,7 +98,7 @@ h1 {
 }
 
 .teaser {
-    margin-bottom: var(--margin-bottom);
+    margin-bottom: var(--my-bottom-margin);
     font-family: 'Montserrat', serif;
     font-style: normal;
     font-weight: 500;
@@ -112,7 +112,7 @@ h1 {
     justify-content: left;
     align-items: center;
     gap: 4%;
-    margin-bottom: var(--margin-bottom);
+    margin-bottom: var(--my-bottom-margin);
 }
 
 .new-price {
@@ -144,7 +144,7 @@ span.add-to-cart {
 }
 
 .btn {
-  margin-bottom: var(--margin-bottom);
+  margin-bottom: var(--my-bottom-margin);
   display: flex;
   justify-content: center;
   align-items: center;
