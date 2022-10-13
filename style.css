@@ -161,15 +161,14 @@ span.add-to-cart {
   width: 100%;
 }
 
+.btn:active {
+  background: #40826d;
+}
+
 svg {
     fill: currentColor;
     color: white;
 }  /***** Finish styling for mobile devices *****/
-
-
-
-
-
 
 @media only screen and (min-width: 600px) {  /***** Start styling for desktops *****/
 
@@ -194,6 +193,10 @@ img {
 :root {
   --my-bottom-margin: 7%;
   }
+  
+.btn:active {
+  background: #40826d;
+}
   
   
 } /***** end media query for desktops *****/
