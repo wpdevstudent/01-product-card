@@ -164,13 +164,14 @@ span.add-to-cart {
 svg {
     fill: currentColor;
     color: white;
-}
+}  /***** Finish styling for mobile devices *****/
 
-/***** Finish styling for mobile devices *****/
 
-/**** Start styling for desktops *****/
 
-@media only screen and (min-width: 600px) {
+
+
+
+@media only screen and (min-width: 600px) {  /***** Start styling for desktops *****/
 
 article {
   display: flex;
@@ -191,7 +192,7 @@ img {
 }
 
 :root {
-  --my-bottom-margin: 3%;
+  --my-bottom-margin: 7%;
   }
   
   
