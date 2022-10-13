@@ -1,3 +1,5 @@
+/***** Start the CSS Reset by Josh Comeau *****/
+
 /*
   1. Use a more-intuitive box-sizing model.
 */
@@ -29,7 +31,7 @@ body {
 /*
   6. Improve media defaults
 */
-img, picture, video, canvas, svg {
+ img, picture, video, canvas, svg {
   display: block;
   max-width: 100%;
 }
@@ -46,12 +48,15 @@ p, h1, h2, h3, h4, h5, h6 {
   overflow-wrap: break-word;
 }
 
-/* end the CSS Reset and let's get to work */
+/***** End the CSS Reset by Josh Comeau and let's get to work *****/
+
+/***** Start styling for mobile devices *****/
 
 
 body {
     background-color: hsl(30, 38%, 92%);
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
@@ -161,25 +166,33 @@ svg {
     color: white;
 }
 
-/***** Start styling for desktops *****/
+/***** Finish styling for mobile devices *****/
+
+/**** Start styling for desktops *****/
 
 @media only screen and (min-width: 600px) {
 
 article {
   display: flex;
   flex-direction: row;
+  
 }
 
 img {
-
-border-radius: 5% 0 0 5%;
-
+   border-radius: 5% 0 0 5%;
+   flex: 1 1 0;
+   
 }
 
 .card-content {  
   border-radius: 0 5% 5% 0%;
+  flex: 1 1 0;
+  padding-left: 3em;
 }
 
-
-
-
+:root {
+  --my-bottom-margin: 3%;
+  }
+  
+  
+} /***** end media query for desktops *****/
