@@ -161,8 +161,9 @@ span.add-to-cart {
   width: 100%;
 }
 
-.btn:active {
-  background: #40826d;
+a.btn-link:active {
+  /* background: #40826d; */ 
+  text-decoration: none;
 }
 
 svg {
