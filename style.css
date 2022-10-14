@@ -146,6 +146,7 @@ del {
 
 span.add-to-cart {
     color: white;
+    text-decoration: none;
 }
 
 .btn {
@@ -163,10 +164,6 @@ span.add-to-cart {
 
 btn:active {
   background: #40826d;  
-}
-
-.add-to-card {
-  text-decoration: none;
 }
 
 svg {
