@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This project is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help me improve my coding skills by building real projects. 
 
 ## Table of contents
 
@@ -67,7 +67,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - This great resource helped me to learn what Flexbox is and how to use it for my layout purposes. For example, it helped me to center my product card horizontally and vertically in the middle of the viewport for all devices. 
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - This great resource helped me learn what Flexbox is and how to use it for my layout. For example, it helped me to center my product card horizontally and vertically in the middle of the viewport for all devices.  
 - [W3Schools](https://www.w3schools.com/) - The W3Schools helped me to get more familiar with various HTML tags and CSS selectors. 
 - [W3 HTML Validator](https://validator.w3.org/) - This tool helped me to check the validity of my HTML document. 
 
