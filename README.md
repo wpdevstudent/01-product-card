@@ -11,6 +11,7 @@ This project is a solution to the [Product Preview Card Component challenge on t
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+  - [Where I need help](#where-i-need-help)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [My Current Struggles](#my-current-struggles)
@@ -64,7 +65,7 @@ To see how you can add code snippets, see below:
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-### What I need help with
+### Where I need help
 
 1 The "Add to Cart" button must change its background colour in its active state. I ....  But the result is ...
 
