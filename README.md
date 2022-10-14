@@ -69,6 +69,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - This great resource helped me to learn what Flexbox is and how to use it for my layout purposes. For example, it helped me to center my product card horizontally and vertically in the middle of the viewport for all devices. 
 - [W3Schools](https://www.w3schools.com/) - 
+- [W3 HTML Validator](https://validator.w3.org/) - This tool helped me to check the validity of my HTML document. 
 
 ## Author
 
