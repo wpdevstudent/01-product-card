@@ -48,7 +48,7 @@ p, h1, h2, h3, h4, h5, h6 {
   overflow-wrap: break-word;
 }
 
-/***** End the CSS Reset by Josh Comeau and let's get to work *****/
+/***** End the CSS Reset by Josh Comeau *****/
 
 /***** Start styling for mobile devices *****/
 
@@ -148,11 +148,6 @@ span.add-to-cart {
     color: white;
     text-decoration: none;
 }
-
-a {
-  text-decoration: none;
-}
-  
 
 .btn {
   margin-bottom: var(--my-bottom-margin);
