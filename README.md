@@ -14,9 +14,6 @@ This project is a solution to the [Product Preview Card Component challenge on t
   - [Where I need help](#where-i-need-help)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [My Current Struggles](#my-current-struggles)
-  - [Getting rid of the blue line underneath of the "Add to Cart" text](#blue-underline)
-  - [Setting an active state for the "Add to Cart" button](#active-state-for-the-button)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -70,8 +67,6 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 1 The "Add to Cart" button must change its background colour in its active state. I ....  But the result is ...
 
 2 I wrapped the "Add to Card" button element with the anchor tag. This added the underline decoration to the "Add to Card" text. I set the .... but it has not had any effect. 
-
-
 
 ### Continued development
 
