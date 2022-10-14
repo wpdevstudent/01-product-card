@@ -13,6 +13,9 @@ This project is a solution to the [Product Preview Card Component challenge on t
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+- [My Current Struggles](#my-current-struggles)
+  - [Getting rid of the blue line underneath of the "Add to Cart" text](#blue-underline)
+  - [Setting an active state for the "Add to Cart" button](#active-state-for-the-button)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
