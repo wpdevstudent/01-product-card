@@ -55,7 +55,7 @@ In this project, I learned the following:
 ### Where I need help
 
 Here is what I am currently struggling with:
-- How to get rid of the blue link underneath the "Add to Cart" button text. 
+- How to get rid of the blue link underneath the "Add to Cart" button text
 - How to add an active state to the "Add to Cart" button
 
 ### Continued development
