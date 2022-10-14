@@ -145,6 +145,7 @@ del {
 
 span.add-to-cart {
     color: white;
+    text-decoration: none;
 }
 
 .btn {
