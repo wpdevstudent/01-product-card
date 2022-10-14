@@ -47,26 +47,16 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+In this project, I learned the following:
+- How to create a well-structured HTML document
+- Benefits of the "Mobile First" approach to styling an HTML document
+- How to use the Flexbox CSS component to create responsive design 
 
 ### Where I need help
 
-1 The "Add to Cart" button must change its background colour in its active state. I ....  But the result is ...
-
-2 I wrapped the "Add to Card" button element with the anchor tag. This added the underline decoration to the "Add to Card" text. I set the .... but it has not had any effect. 
+Here is what I am currently struggling with:
+- How to get rid of the blue link underneath the "Add to Cart" button text. 
+- How to add an active state to the "Add to Cart" button
 
 ### Continued development
 
