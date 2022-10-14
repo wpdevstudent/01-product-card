@@ -10,7 +10,7 @@ This project is a solution to the [Product Preview Card Component challenge on t
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [What I learned](#what-i-learnt)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [My Current Struggles](#my-current-struggles)
@@ -66,11 +66,9 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ### What I need help with
 
-1 I am currently struggling to prevent the content of the Product Card from flowing right horizontally and up vertically when the width of the viewport is increasing from 600px onward.
+1 The "Add to Cart" button must change its background colour in its active state. I ....  But the result is ...
 
-2 The "Add to Cart" button must change its background colour in its active state. I ....  But the result is ...
-
-3 I wrapped the "Add to Card" button element with the anchor tag. This added the underline decoration to the "Add to Card" text. I set the .... but it has not had any effect. 
+2 I wrapped the "Add to Card" button element with the anchor tag. This added the underline decoration to the "Add to Card" text. I set the .... but it has not had any effect. 
 
 
 
