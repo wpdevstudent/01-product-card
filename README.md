@@ -10,7 +10,7 @@ This project is a solution to the [Product Preview Card Component challenge on t
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learnt)
+  - [Built with](#built-with)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [My Current Struggles](#my-current-struggles)
@@ -39,6 +39,13 @@ Users should be able to:
 - Live Site URL: [https://wpdevstudent.github.io/01-product-card]
 
 ## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
 
 ### Built with
 
