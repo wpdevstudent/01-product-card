@@ -160,6 +160,10 @@ span.add-to-cart {
   width: 100%;
 }
 
+.btn-link {
+  text-decoration: none;
+}
+
 svg {
     fill: currentColor;
     color: white;
