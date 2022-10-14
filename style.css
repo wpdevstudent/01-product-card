@@ -149,6 +149,11 @@ span.add-to-cart {
     text-decoration: none;
 }
 
+a {
+  text-decoration: none;
+}
+  
+
 .btn {
   margin-bottom: var(--my-bottom-margin);
   display: flex;
