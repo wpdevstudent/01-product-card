@@ -61,6 +61,16 @@ To see how you can add code snippets, see below:
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
+### What I need help with
+
+1 I am currently struggling to prevent the content of the Product Card from flowing right horizontally and up vertically when the width of the viewport is increasing from 600px onward.
+
+2 The "Add to Cart" button must change its background colour in its active state. I ....  But the result is ...
+
+3 I wrapped the "Add to Card" button element with the anchor tag. This added the underline decoration to the "Add to Card" text. I set the .... but it has not had any effect. 
+
+
+
 ### Continued development
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
