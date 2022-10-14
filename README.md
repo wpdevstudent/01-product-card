@@ -10,7 +10,7 @@ This project is a solution to the [Product Preview Card Component challenge on t
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Built with this](#built-with-this)
+  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [My Current Struggles](#my-current-struggles)
