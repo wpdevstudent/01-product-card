@@ -16,8 +16,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -46,7 +44,6 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 
-
 ### What I learned
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
@@ -64,22 +61,19 @@ To see how you can add code snippets, see below:
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - This great resource helped me to learn what Flexbox is and how to use it for my layout purposes. For example, it helped me to center my product card horizontally and vertically in the middle of the viewport for all devices. 
+- [W3Schools](https://www.w3schools.com/) - 
 
 ## Author
 
-- Website - [Alex Kiash](https://www.your-site.com)
-- Frontend Mentor - [@Alex Kiash](https://www.frontendmentor.io/wpdevstudent/)
+- Website - [Alex Kiash](https://wpdevstudent.github.io/01-product-card/)
+- Frontend Mentor Profile - [@Alex Kiash](https://www.frontendmentor.io/wpdevstudent/)
 
 ## Acknowledgments
 
