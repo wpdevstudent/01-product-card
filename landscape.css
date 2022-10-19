@@ -1,3 +1,7 @@
-body {
-  background-color: green;
+@media (max-width: 767px) and (orientation: landscape) {
+
+    body {
+      background-color: green;
+    }
+  
 }
